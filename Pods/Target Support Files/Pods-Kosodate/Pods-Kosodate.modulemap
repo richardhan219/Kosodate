@@ -1,0 +1,6 @@
+framework module Pods_Kosodate {
+  umbrella header "Pods-Kosodate-umbrella.h"
+
+  export *
+  module * { export * }
+}
